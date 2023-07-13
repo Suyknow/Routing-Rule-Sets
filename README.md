@@ -1,5 +1,4 @@
 # WeChat-Rule-set
-Modify from NobyDa / Script
 
 For Surge and Clash Users
 
