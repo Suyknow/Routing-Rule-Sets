@@ -2,6 +2,10 @@
 
 For Surge and Clash Users
 
-Modify From https://github.com/NobyDa/Script/blob/master/Surge/WeChat.list
+Modify from:
+
+https://github.com/NobyDa/Script/blob/master/Surge/WeChat.list
+
+https://github.com/ACL4SSR/ACL4SSR/blob/master/Clash/Ruleset/GameDownload.list
 
 Updated Manually.
