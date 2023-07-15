@@ -354,5 +354,5 @@ payload:
   - DOMAIN-SUFFIX,up-hl.3g.qq.com
   - DOMAIN-SUFFIX,yun-hl.3g.qq.com
 
-  - USER-AGENT,WeChat*
-  - USER-AGENT,MicroMessenger*
+  # - USER-AGENT,WeChat*
+  # - USER-AGENT,MicroMessenger*
