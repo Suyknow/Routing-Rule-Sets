@@ -8,6 +8,6 @@ https://github.com/NobyDa/Script/blob/master/Surge/WeChat.list
 
 https://github.com/ACL4SSR/ACL4SSR/blob/master/Clash/Ruleset/GameDownload.list
 
-https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/Ruleset/OpenAi.list
+https://github.com/ACL4SSR/ACL4SSR/blob/master/Clash/Ruleset/OpenAi.list
 
 Updated Manually.
