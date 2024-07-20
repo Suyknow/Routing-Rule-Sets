@@ -22,3 +22,4 @@ payload:
   - DOMAIN-SUFFIX,dl.playstation.net
   - DOMAIN-SUFFIX,dyn.riotcdn.net
   - DOMAIN-SUFFIX,cdn.ubi.com
+  - DOMAIN-SUFFIX,azureedge.net
