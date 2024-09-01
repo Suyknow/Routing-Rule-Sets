@@ -2,7 +2,7 @@
 
 For Surge and Clash Users
 
-Modify from:
+Modified from:
 
 https://github.com/NobyDa/Script/blob/master/Surge/WeChat.list
 
