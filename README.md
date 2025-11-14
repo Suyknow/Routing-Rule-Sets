@@ -12,4 +12,6 @@ https://github.com/ACL4SSR/ACL4SSR/blob/master/Clash/Ruleset/OpenAi.list
 
 https://whatshub.top/rule/Alibaba.list
 
+https://whatshub.top/rule/TikTok.list
+
 Updated Manually.
